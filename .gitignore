@@ -2,24 +2,22 @@
 node_modules/
 package-lock.json
 
-# Session data
+# User data
 sessions/
 *.enc
 appstate.json
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
 
 # Logs
 *.log
 npm-debug.log*
 
-# Environment variables
-.env
-
-# IDE files
-.vscode/
-.idea/
-
 # Test files
 coverage/
-
-# Cache
-.cache/

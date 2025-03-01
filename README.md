@@ -1,5 +1,9 @@
 # Nexus-FCA
 
+[![npm version](https://img.shields.io/npm/v/nexus-fca.svg)](https://www.npmjs.com/package/nexus-fca)
+[![downloads](https://img.shields.io/npm/dm/nexus-fca.svg)](https://www.npmjs.com/package/nexus-fca)
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/yourusername/nexus-fca/blob/main/LICENSE)
+
 A secure Facebook Chat API by Nexus Team.
 
 ## Installation
@@ -226,6 +230,17 @@ fca.on('message_reaction', (data) => {
 });
 ```
 
+## Contributing
+
+Pull requests are welcome! For major changes, please open an issue first.
+
+## Support
+
+If you have any issues or questions, please:
+1. Check the documentation
+2. Search existing issues
+3. Open a new issue if needed
+
 ## License
 
-MIT
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
