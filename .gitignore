@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Session data
+sessions/
+*.enc
+appstate.json
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# Test files
+coverage/
+
+# Cache
+.cache/
